@@ -1,14 +1,14 @@
-"Timestamp","What's your name?","What is your Starsign?","What's your favorite Lady Gaga song?","If you were a Pokemon type would you be?","If you were one of the Adobe Suite, which one would you be?","Who is your favorite Mario character?"
-"2022/11/16 1:58:55 PM GMT","Jana","Pisces","Born This Way","Water","Illustrator","Bowser"
-"2022/11/16 1:59:02 PM GMT","Rocio","Aquarius","Born This Way","Psychic","After Effects","Yoshi"
-"2022/11/16 2:00:05 PM GMT","Shi Shi","Aquarius","Born This Way","Water","Illustrator","Mario"
-"2022/11/16 2:07:40 PM GMT","Tilly","Gemini","Telephone","Fire","InDesign","Princess Peach"
-"2022/11/16 2:11:15 PM GMT","Jasmine","Aries","Alejandro","Psychic","Photoshop","Yoshi"
-"2022/11/16 2:28:35 PM GMT","Jiaze Li","Taurus","Bad Romance","Fire","Photoshop","Princess Peach"
-"2022/11/16 5:08:54 PM GMT","Jade","Capricorn","Paparazzi","Ice","Illustrator","Rosalina"
-"2022/11/16 5:43:52 PM GMT","Wen","Pisces","Born This Way","Electric","InDesign","Mario"
-"2022/11/16 8:38:26 PM GMT","Adele","Aquarius","Poker Face","Dragon","Illustrator","Luigi"
-"2022/11/17 2:03:30 PM GMT","Beth","Sagittarius","Bad Romance","Electric","Photoshop","Bowser"
-"2022/11/17 2:25:20 PM GMT","Kat","Cancer","Bad Romance","Electric","After Effects","Toad"
-"2022/11/18 12:02:24 PM GMT","Dara","Gemini","Bad Romance","Water","Illustrator","Princess Peach"
-"2022/11/18 1:53:33 PM GMT","Ning Wei","Sagittarius","Poker Face","Ice","Premiere Pro","Mario"
+name,starsign,gaga_song,pokemon,adobe,mario
+Jana,Pisces,Born This Way,Water,Illustrator,Bowser
+Rocio,Aquarius,Born This Way,Psychic,After Effects,Yoshi
+Shi Shi,Aquarius,Born This Way,Water,Illustrator,Mario
+Tilly,Gemini,Telephone,Fire,InDesign,Princess Peach
+Jasmine,Aries,Alejandro,Psychic,Photoshop,Yoshi
+Jiaze Li,Taurus,Bad Romance,Fire,Photoshop,Princess Peach
+Jade,Capricorn,Paparazzi,Ice,Illustrator,Rosalina
+Wen,Pisces,Born This Way,Electric,InDesign,Mario
+Adele,Aquarius,Poker Face,Dragon,Illustrator,Luigi
+Beth,Sagittarius,Bad Romance,Electric,Photoshop,Bowser
+Kat,Cancer,Bad Romance,Electric,After Effects,Toad
+Dara,Gemini,Bad Romance,Water,Illustrator,Princess Peach
+Ning Wei,Sagittarius,Poker Face,Ice,Premiere Pro,Mario
